@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Редакторы / IDE
+.vscode/
+.idea/
+*.swp
+
+# Секреты и локальные значения — НИКОГДА не коммитим
+.env
+.env.*
+*.local
+secrets/
